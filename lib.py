@@ -1,2 +1,2 @@
-def power(x, y):
-    return x*y    
+def power(a, y):
+    return a*y    
